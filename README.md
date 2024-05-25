@@ -19,3 +19,7 @@ This extension provides a collection of handy C++ code snippets for initializing
 ### 1.0.0
 
 Initial release of C++ Init Snippets extension.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
