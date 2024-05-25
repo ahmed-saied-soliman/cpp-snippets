@@ -1,0 +1,25 @@
+{
+  "name": "cpp-snippets",
+  "displayName": "PST CPP",
+  "description": "A collection of handy C++ code snippets for initializing a C++ program",
+  "version": "0.0.1",
+  "publisher": "Ahmed Saied",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmed-saied-soliman/cpp-snippets"
+  },
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "cpp",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

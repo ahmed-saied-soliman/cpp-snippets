@@ -1,0 +1,20 @@
+{
+  "CPP Init": {
+    "prefix": "cppinit",
+    "body": [
+      "#include<iostream>",
+      "",
+      "using namespace std;",
+      "",
+      "${1:datatype} ${2:functionName}() {",
+      "\t$0",
+      "}",
+      "",
+      "int main(){",
+      "",
+      "   return 0;",
+      "}"
+    ],
+    "description": "A simple init for your main function"
+  }
+}
